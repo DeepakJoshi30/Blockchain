@@ -1,0 +1,44 @@
+Assignment No. 1
+Name – Deepak Joshi
+
+Q.1 What is your understanding of blockchain?
+Ans:
+Blockchain technology came into existence after the 2008 crisis. it was invented by Satoshi Nakamoto, it is a decentralized (peer to peer network), distributed system. digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered, without the alteration of all subsequent blocks.Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. there are primary three types of blockchain.
+1- Public blockchains - Bitcoin and Ethereum.
+2- Private blockchains - Hyperledger and R3 Corda.
+3- Hybrid blockchains - Dragonchain.
+4- Consortium blockchains.
+
+
+Q.2 What is the core problem blockchain tried to solve?
+Ans:
+1. Improved Security
+2. immutability - Increased Efficiency
+3. Securing applications
+4. Securing testing and similar approaches
+5. Database security 
+6- Secure Transaction Records- (keep track of all the transactions without the fear of having them erased or lost.) etc.
+7- Blockchain Addresses the Problem of Data Loss due to Hardware or Connectivity Issues.
+8- Blockchain Addresses the Problem of Data Corruption due to Intermittent Hardware or Connectivity Issues.
+
+Q.3 What are the few features of blockchain.?
+Ans:
+1. Verifiable
+2. Unchangeable
+3. Tamper – proof
+4. Immutable
+5. Decentralized Systems
+6. Distributed ledger
+7. Safer & Secure Ecosystem
+8. Minting
+
+Q.4 What all things does a blockchain contain.?
+Ans: few of things that blockchain contains are following..
+1. Block number
+2. Transaction records
+3. cryptographic hash of the previous block
+4. Timestamp
+5. Mining key (Nonce)
+
+Q.5 How is the verifiability of the blockchain has been attained?
+Ans: Every block in this online ledger basically consists of a hash pointer which acts as a link to the block which is prior to it, transaction data and a stamp of time. Encryption is basically an approach that helps organizations to keep their data verifiable and secure.
