@@ -3,7 +3,7 @@ Name – Deepak Joshi
 
 Q.1 What is your understanding of blockchain?
 Ans:
-Blockchain technology came into existence after the 2008 crisis. it was invented by Satoshi Nakamoto, it is a decentralized (peer to peer network), distributed system. digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered, without the alteration of all subsequent blocks.Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. there are primary three types of blockchain.
+Blockchain technology came into existence after the 2008 crisis. it was invented by Satoshi Nakamoto, it is a decentralized (peer to peer network), distributed system. digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered, without the alteration of all subsequent blocks.Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. there are primary four types of blockchain.
 1- Public blockchains - Bitcoin and Ethereum.
 2- Private blockchains - Hyperledger and R3 Corda.
 3- Hybrid blockchains - Dragonchain.
